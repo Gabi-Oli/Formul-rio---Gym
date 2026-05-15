@@ -1,8 +1,8 @@
-# Formul-rio---Gym
+# Formulário - Gym
 
 ![Preview](Gym.png) ![Preview](Form.png)
 
-🏋️ Formulário de inscrição para registro de usuários no site de uma academia, coletando dados pessoais e opções de planos com pacote de beneficios onde o cliente preenche os campos e ativa seu plano
+🏋️ Formulário de inscrição para registro de usuários no site de uma academia, coletando dados pessoais e opções de planos com pacote de beneficios onde o cliente preenche os campos e ativa seu plano.
 
 💻 TECNOLOGIAS
 
